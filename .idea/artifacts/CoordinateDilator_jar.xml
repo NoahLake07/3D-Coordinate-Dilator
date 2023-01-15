@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CoordinateDilator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CoordinateDilator_jar</output-path>
+    <root id="archive" name="CoordinateDilator.jar">
+      <element id="module-output" name="CoordinateDilator" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Dependencies/FreshUI.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
